@@ -1,18 +1,5 @@
 import Phaser from 'phaser';
 
-// import dogImg from '../sprites/doggy.png';
-
-// import circleImg from '../sprites/circle.png';
-// import circleJson from '../sprites/circle.json';
-
-// import logoImg from '../sprites/logo.png';
-// import girlImg from '../sprites/char.png';
-// import buttonImg from '../sprites/btn.png';
-
-// import themeMp3 from '../sounds/theme.mp3';
-// import dogMp3 from '../sounds/dog.mp3';
-// import complateMp3 from '../sounds/complete.mp3';
-
 export class PreloadScene extends Phaser.Scene {
   constructor() {
       super('Preload');

@@ -1,6 +1,4 @@
 import Phaser from 'phaser';
-// import backImg from '..sprites/back_five_dogs.jpg';
-// import backImgPort from '..sprites/back_five_dogs_portret.jpg';
 
 export class BootScene extends Phaser.Scene {
   constructor() {
